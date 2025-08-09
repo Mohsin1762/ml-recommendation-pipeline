@@ -1,0 +1,10 @@
+torch
+transformers
+faker
+pandas
+numpy
+scikit-learn
+matplotlib
+seaborn
+fastapi
+uvicorn
